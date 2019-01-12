@@ -1,15 +1,15 @@
-一、基于传统机器学习方法SVM对kaggle猫狗图片分类
-user:           yangyu
-repository：    https://github.com/icoty/svm_kaggle_cat_dog
-参考文献:       https://www.jianshu.com/p/e62834b99bad
-
-
-二、目录树
+一、基于传统机器学习方法SVM对kaggle猫狗图片分类<br>
+user:           yangyu <br>
+repository：    https://github.com/icoty/svm_kaggle_cat_dog <br>
+参考文献:       https://www.jianshu.com/p/e62834b99bad <br>
+---
+---
+二、目录树 <br>
 .
-|-- README.md
-|-- resizeData/  原始图片像素尺寸不一,调用接口格式化后存储至该目录 
-|-- train/       原始数据解压后存放位置, 下载链接：https://pan.baidu.com/s/13hw4LK8ihR6-6-8mpjLKDA 密码：dmp4
-`-- train.py
+|-- README.md <br>
+|-- resizeData/  原始图片像素尺寸不一,调用接口格式化后存储至该目录 <br>
+|-- train/       原始数据解压后存放位置, 下载链接：https://pan.baidu.com/s/13hw4LK8ihR6-6-8mpjLKDA 密码：dmp4  <br>
+`-- train.py  <br>
 
 三、运行结果展示
 [yangyu@VM_0_3_centos svm]$ 
