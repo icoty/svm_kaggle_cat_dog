@@ -1,7 +1,7 @@
 一、基于传统机器学习方法SVM对kaggle猫狗图片分类<br>
 user:　　　　　yangyu <br>
 repository：　https://github.com/icoty/svm_kaggle_cat_dog <br>
-参考文献:　　　https://www.jianshu.com/p/e62834b99bad <br>
+参考文献:　　  https://www.jianshu.com/p/e62834b99bad <br>
 ---
 ---
 二、目录树 <br>
@@ -14,7 +14,7 @@ repository：　https://github.com/icoty/svm_kaggle_cat_dog <br>
 三、运行结果展示  <br>
 [yangyu@VM_0_3_centos svm]$ <br>
 [yangyu@VM_0_3_centos svm]$ python train.py <br>
-===============　[　　　　　　　　BEGIN　　　　　　　] ===============<br>
+=============== [        BEGIN       ] ===============<br>
 ############### [Hog_SVM  pre process] ###############<br>
                  2019-01-12 19:04:56<br>
                  2019-01-12 19:04:56<br>
@@ -101,8 +101,8 @@ predict:[1500], errorConuts:[713], accuracy:[52.47%]<br>
 ---
 =============== [        BEGIN       ] ===============<br>
 ############### [Hog_SVM  pre process] ###############<br>
-　　　　　　　　　　　　　　　　2019-01-12 19:05:12<br>
-　　　　　　　　　　　　　　　　2019-01-12 19:05:21<br>
+                 2019-01-12 19:05:12<br>
+                 2019-01-12 19:05:21<br>
 trainData:[25000],cat:[12500],dog:[12500],testData:[2500]<br>
 ############### [Hog_SVM  pre process] ###############<br>
 ############### [Hog_SVM       train ] ###############<br>
